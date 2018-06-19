@@ -8,7 +8,7 @@ int main()
 	//printf("\n");
 	for (i = 0; i < 10; i++)
 	{
-		
+
 		a[i][0] = 1;
 		a[i][i] = 1;
 	}
