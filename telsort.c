@@ -43,7 +43,7 @@ int main()
         for(j = 0; j < n; j++)
         {
             printf("%12s%12s\n",contact[j].name,contact[j].num);
-	}z`
+	}
     }
 return 0;
 }
